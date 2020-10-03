@@ -1,4 +1,4 @@
-# Mohit Lamba #
+# Job Description Parser #
 
 ### Highlights
 JD creater
@@ -44,15 +44,6 @@ SSL error downloading NLTK data
 run command from python terminal
 >>>/Applications/Python 3.7/Install Certificates.command
 
-## Motivator
-
- 0. Jit Varish Tiwari
-
-## Contributors
-
- 0. Sudhir Kumar
- 1. Deepak Kandhari
- 2. Jagat Prakash Chandola
 
 ##Key points
 * Use Proper indentation. 4 spaces should be there. All ('=', ':') sign of variables should be in same line
